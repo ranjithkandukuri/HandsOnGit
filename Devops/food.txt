@@ -1,2 +1,2 @@
-chicken biryani
-chicken 65
+amazing git
+python
