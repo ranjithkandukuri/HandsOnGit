@@ -1,5 +1,5 @@
-def helloRanjith():
-    print("Hello Ranjith")
+def helloRanjith(mystring):
+    print(mystring)
     first_name = input("First Name? ")
     sib_num = input("How many siblings do you have? ")
     if(first_name == "Ranjith" and sib_num == 1):
@@ -8,4 +8,5 @@ def helloRanjith():
         print("You are Ranjith but not Kandukuri")
     else:
         print("You are not Kanudukuri")
-helloRanjith()
+helloRanjith("Namaste")
+helloRanjith("Vanakkam")

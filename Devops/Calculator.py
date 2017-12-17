@@ -26,10 +26,12 @@ def main():
         except:
             try_again = input("Invalid input. Do you want to try again (y/n)?")
             if (try_again == 'n'):
-                print("Exiting the program. Hasta la vista!")
+                print("Exiting the program.\nHasta la vista!!")
                 return
             else:
                 print("\n")
+        finally:
+            print("\nThis will get executed no matter what")
 
 
     if (operation == 1):
