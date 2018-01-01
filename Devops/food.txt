@@ -1,2 +1,4 @@
 amazing git
 python
+powershell
+jenkins
