@@ -1,0 +1,7 @@
+amazing git
+python
+powershell
+jenkins
+ansible
+chef
+MySql
